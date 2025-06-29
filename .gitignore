@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
+
+# Virtual environments
+.venv/
+.env/
+
+# Logs
+*.log
+
+# Model checkpoints & weights
+training/models/*.pth
+training/models/*.pt
+training/models/*.ckpt
+
+# Temp folders
+/tmp/
+backend/flood_uploads/
+backend/flood_outputs/
+backend/infer/ready
+
+# Data (nặng, không push)
+data/sen12floods1/
+
+# Old experimental code
+old/
+
+# Node modules / build
+frontend/node_modules/
+frontend/build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/ 

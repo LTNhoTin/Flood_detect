@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+timm
+numpy
+pillow
+rasterio
+opencv-python-headless
+matplotlib 
