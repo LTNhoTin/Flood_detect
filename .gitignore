@@ -38,4 +38,3 @@ frontend/build/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/ 
-training/DeepLearning_Model_Evaluation.ipynb
